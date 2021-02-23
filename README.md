@@ -1,1 +1,1 @@
-# Proof-of-flight-patterns-of-multi-layered-balloon
+# Proof of flight patterns of multi-layered balloon
