@@ -2,4 +2,4 @@
 
 Supported by Seoul National Uniersity.
 
-Project Owner, Minhyeong Lee
+Project Manager, Minhyeong Lee
