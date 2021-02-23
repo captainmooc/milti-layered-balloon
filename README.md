@@ -2,8 +2,7 @@
 
 Supported by Seoul National Uniersity.
 
-*Minhyeong Lee
-Dongyeong Kim (https://github.com/Dongyeongkim/SNU_WEATHER_BALLOON)
-Richard Kim
+*Minhyeong Lee, **Dongyeong Kim, Richard Kim
 
 *Project Manager
+**(https://github.com/Dongyeongkim/SNU_WEATHER_BALLOON)
